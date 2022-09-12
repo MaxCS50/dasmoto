@@ -29,3 +29,8 @@ h3 {
 h4 {
     background-color: skyblue;
 }
+
+span {
+    font-weight: bold;
+    color: blue;
+}
