@@ -1,0 +1,30 @@
+
+
+h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: Helvetica;
+    background-image: href="./pattern.jpg";
+}
+
+.product {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+    background-color: mediumspringgreen;
+    
+}
+
+
+h3 {
+    background-color: lightcoral;
+}
+
+h4 {
+    background-color: skyblue;
+}
