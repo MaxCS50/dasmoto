@@ -6,7 +6,7 @@ h1 {
     font-weight: bold;
     font-family: Helvetica;
     background-image: url("./pattern.jpeg");
-    margin: auto;
+    text-align: center;
 }
 
 .product {
